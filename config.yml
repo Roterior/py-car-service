@@ -1,0 +1,5 @@
+mysql:
+    host: remotemysql.com
+    user: hGXWdbEWWC
+    passwd: 9EV9BUOZMw
+    database: hGXWdbEWWC
